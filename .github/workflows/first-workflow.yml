@@ -8,4 +8,4 @@ jobs:
       - name: print hello
         run: echo "hello world!"
       - name: ubuntu diskspace
-        run: df-h
+        run: df -h
